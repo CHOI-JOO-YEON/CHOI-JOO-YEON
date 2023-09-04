@@ -28,5 +28,6 @@
 <!--   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> -->
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-JOO-YEON&show_icons=true&theme=radical)
 </div>
