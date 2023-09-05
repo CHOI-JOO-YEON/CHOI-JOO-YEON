@@ -1,5 +1,9 @@
 
-<div align="center"> 
+
+<div> 
+  <h3>포트폴리오</h3>
+  <a href="https://the-rock.notion.site/04f72313af434dff990b0da6056f45bf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  
   <h3>BE</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -31,3 +35,5 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-JOO-YEON&show_icons=true&theme=radical)
 </div>
+
+
