@@ -32,5 +32,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-JOO-YEON&show_icons=true&theme=radical)
 </div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=genboyjy)](https://solved.ac/genboyjy)
 
 
