@@ -30,9 +30,10 @@
      <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
      <img src="https://img.shields.io/badge/amazondynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-JOO-YEON&show_icons=true&theme=radical)
-</div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=genboyjy)](https://solved.ac/genboyjy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-JOO-YEON&show_icons=true&theme=radical)
+</div>
 
 
